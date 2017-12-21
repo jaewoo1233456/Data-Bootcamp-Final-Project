@@ -4,6 +4,7 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description
+Project Description:
+
 This explores the relationship between weather and crime rates in NYC. There has been literature published in the past, but none that explores NYC so Soojin Sungho and I thought it might be interesting.
 
